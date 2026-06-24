@@ -21,23 +21,45 @@
 
 ---
 
-### 🎯 **Current Focus**
-> 
+### 🎯 Current Focus
 
-### 🌱 **Learning Journey**
-> 
+> Building a Java-based Database Engine from scratch, exploring storage engines, indexing, query execution, and database internals.
 
-### 🛠 **Tech Stack**
-> 
+### 🌱 Learning Journey
 
-### 💡 **Projects & Experiments**
-> 
+> Java • Database Systems • Distributed Systems • PostgreSQL Internals • System Design
 
-### 🤝 **Open to Collaborate**
-> 
+### 🛠 Tech Stack
 
-### 📫 **Reach Me**
-> 
+> **Languages:** C, C++, Java, JavaScript, SQL
+> **Backend:** Node.js, Express.js
+> **Databases:** PostgreSQL, SQLite, Turso
+> **DevOps:** Docker, Nginx, Linux, VPS Management
+> **Monitoring:** Prometheus, Grafana, ELK Stack
+> **Tools:** Git, GitHub, VS Code, Postman
+
+### 💡 Projects & Experiments
+
+> • Built a POSIX-like Unix Shell in C (processes, pipes, signals)
+> • Developed an HTTP/1.1 Web Server in C++ from scratch
+> • Solved concurrency and synchronization challenges using threads and mutexes
+> • Built full-stack web applications with React, Express, and PostgreSQL
+> • Designed inventory and business management software for real-world use cases
+> • Currently building a Database Engine in Java
+
+### 🤝 Open to Collaborate
+
+> Open-source projects, backend engineering, databases, systems programming, and developer tools.
+
+### 📫 Reach Me
+
+> GitHub: [hamza-elomrani](https://www.github.com/hamza-elomrani)
+> LinkedIn: [hamza-elomrani](https://www.linkedin.com/in/hamza-elomrani/)
+> Email: hamza.elomrani111@gmail.com
+
+---
+
+⚡ Passionate about backend engineering, databases, operating systems, and building software from the ground up.
 
 ---
 
